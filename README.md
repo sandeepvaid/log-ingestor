@@ -1,4 +1,4 @@
-# Introduction
+# Log-Ingestor
 
 Log-ingestor is an express-based server that is responsible for ingesting logs of high volumes. Right now we are using indexing to make our server fast to give quick response.
 
